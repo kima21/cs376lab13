@@ -34,9 +34,9 @@ void robotPrintAscii(void)
   char* blank = "                              ";
   blank = blank +30;
   printf("\n\n"
-	 "UWR: Unidentified Wheeled Robot\n"
+	 "I like go home\n"
 	 "%s    i_i    \n"
-	 "%s   [T_T]   \n"
+	 "%s   [-_-]   \n"
 	 "%s  /|___|\\ \n"
 	 "%s   d   b   \n",blank, blank, blank, blank);
 
@@ -53,7 +53,7 @@ void dalekPrintAscii(void)
   char* blank = "                              ";
   blank = blank +30;
   printf("\n\n"
-	 "I am Dalek, from Dr. Who\n"
+	 "I am Dalek, from Dr. Moo\n"
 	 "%s      <----->      \n" 
          "%s     <  (0)  >     \n"        
          "%s     |       |     \n"
