@@ -56,7 +56,7 @@ void dalekPrintAscii(void)
 	 "I am Dalek, from Dr. Moo\n"
 	 "%s      <----->      \n" 
          "%s     <  (0)  >     \n"        
-         "%s     |       |     \n"
+         "%s     |  uwu  |     \n"
          "%s    < ------- >    \n"
          "%s    o         o    \n"
          "%s    o  0  ()  o    \n"
